@@ -1,6 +1,6 @@
 # rpm-openam
 
-An RPM spec file to build and install the is Forgerock OpenAM Authentication, Authorization, Entitlement and Federation software.
+An RPM spec file to install the is Forgerock OpenAM Authentication, Authorization, Entitlement and Federation software.
 
 To Build:
 
